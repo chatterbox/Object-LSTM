@@ -1,0 +1,30 @@
+638,387
+traffic lightgreen round,512,313,12,14
+traffic lightgreen round,551,297,7,10
+traffic lightgreen round,682,310,7,12
+traffic lightgreen round,623,320,6,8
+traffic lightred round,541,286,6,8
+traffic lightgreen round,574,318,4,8
+lane solid,"[[1016, 426, 1280, 471]]"
+lane solid,"[[0, 480, 499, 371]]"
+lane orange solid,"[[1, 493, 406, 396]]"
+lane orange solid,"[[2, 497, 406, 400]]"
+lane orange dashed,"[[550, 378, 228, 616]]"
+lane orange dashed,"[[207, 614, 546, 376]]"
+lane orange dashed,"[[641, 410, 871, 626]]"
+lane orange dashed,"[[890, 625, 645, 407]]"
+lane orange dashed,"[[706, 395, 1276, 583]]"
+lane orange dashed,"[[1279, 576, 709, 393]]"
+lane orange dashed,"[[808, 399, 1280, 501]]"
+lane dashed,"[[518, 372, 593, 375]]"
+lane dashed,"[[523, 368, 594, 372]]"
+lane dashed,"[[528, 365, 592, 368]]"
+lane dashed,"[[588, 364, 529, 361]]"
+car,700,367,48,40,-2,6
+car,957,392,120,63,35,9
+car,635,369,94,84,-5,4
+pedestrian,1218,391,47,91,60,4
+car,885,384,73,50,31,12
+car,825,381,44,32,17,11
+car,760,376,66,47,0,6
+car,407,353,78,23,-11,8

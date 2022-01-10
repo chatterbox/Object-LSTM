@@ -1,0 +1,20 @@
+car,1
+trailer,1
+other vehicle,1
+other person,2
+pedestrian,2
+rider,2
+bicycle,3
+motorcycle,4
+bus,5
+train,6
+truck,7
+lane solid,8
+lane dashed,9
+lane orange solid,10
+lane orange dashed,11
+traffic lightred round,12
+traffic lightgreen round,13
+traffic lightyellow round,14
+traffic lightgreen left,15
+traffic lightred right,16

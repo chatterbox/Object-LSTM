@@ -1,0 +1,19 @@
+644,568
+traffic lightgreen round,692,267,12,36
+traffic lightgreen round,662,269,13,33
+traffic lightgreen round,567,327,12,21
+traffic lightred round,610,373,6,15
+traffic lightgreen round,507,383,9,13
+lane solid,"[[58, 508, 0, 518]]"
+lane orange dashed,"[[595, 457, 113, 720]]"
+lane orange dashed,"[[593, 469, 151, 720]]"
+lane orange dashed,"[[760, 533, 918, 720]]"
+lane orange dashed,"[[772, 530, 933, 717]]"
+lane solid,"[[545, 427, 509, 429]]"
+car,587,418,17,25,-15,5
+bus,1030,360,498,720,0,5
+bus,289,384,474,306,-1,6
+car,625,442,53,80,-12,4
+car,695,458,175,138,-13,3
+car,570,420,34,24,-16,4
+bus,679,385,92,43,-15,4
